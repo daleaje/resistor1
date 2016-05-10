@@ -24,7 +24,7 @@ input[type=radio] {
 }
 
 .container-fluid{
-max-width:800px;
+max-width:801px;
 border-radius:5px;
 background:rgba(255, 255, 255,0.3);  /* glass layer effect */
 }
